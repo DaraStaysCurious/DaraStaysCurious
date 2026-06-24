@@ -6,7 +6,7 @@
 
 San Miguel de Allende, MX + Atlanta, GA &nbsp;|&nbsp; dara.thomas.grc@gmail.com &nbsp;|&nbsp; [Portfolio](YOUR_PORTFOLIO_URL)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=5EA2B2&center=true&width=600&height=60&lines=GRC+Analyst+%7C+CompTIA+Security%2B;Former+UX+Designer.;Human-centered+risk+%26+compliance.;Open+to+remote+roles.;Dara.+Stays.+Curious.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=5EA2B2&center=true&width=600&height=60&lines=%3A%3A+GRC+Analyst+%3A%3A+Secure+Design+Thinker+%3A%3A;CompTIA+Security%2B+%3A%3A+Former+UX+Designer;Human-centered+risk+%26+compliance.;Open+to+remote+roles+%26+engagements.;Dara+%3A%3A+Stays+%3A%3A+Curious)](https://git.io/typing-svg)
 
 </div>
 
