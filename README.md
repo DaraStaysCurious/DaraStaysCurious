@@ -1,4 +1,14 @@
+<div align="center">
+
 # Hi, I'm Dara!
+
+**Governance, Risk & Compliance Analyst**
+
+San Miguel de Allende, MX + Atlanta, GA &nbsp;|&nbsp; dara.thomas.grc@gmail.com &nbsp;|&nbsp; [Portfolio](YOUR_PORTFOLIO_URL)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=5EA2B2&center=true&width=600&height=60&lines=GRC+Analyst+%7C+CompTIA+Security%2B;Former+UX+Designer.;Human-centered+risk+%26+compliance.;Open+to+remote+roles.;Dara.+Stays.+Curious.)](https://git.io/typing-svg)
+
+</div>
 
 I've spent my career studying how systems fail when humans are involved — first in occupational health and safety, then in B2B SaaS product design, now in governance, risk, and compliance. GRC isn't a pivot for me. It's where all three converge.
 
