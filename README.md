@@ -1,4 +1,4 @@
-# Hi, I'm Dara Thomas
+# Hi, I'm Dara!
 
 I've spent my career studying how systems fail when humans are involved — first in occupational health and safety, then in B2B SaaS product design, now in governance, risk, and compliance. GRC isn't a pivot for me. It's where all three converge.
 
