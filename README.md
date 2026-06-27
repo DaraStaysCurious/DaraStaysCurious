@@ -12,7 +12,7 @@ San Miguel de Allende, MX + Atlanta, GA &nbsp;|&nbsp; dara.thomas.grc@gmail.com 
 
 I've spent my career studying how systems fail when humans are involved — first in occupational health and safety, then in B2B SaaS product design, now in governance, risk, and compliance. GRC isn't a pivot for me. It's where all three converge.
 
-A decade in Occupational Health & Safety taught me that unsafe behavior is almost always a system design failure, not a human failure. Years in User Experience / product design taught me how to observe people inside those systems, map where they break down, and redesign them around how humans actually behave. Security+ and ongoing GRC study have given me the framework language to translate both into auditable controls.
+Over a decade in Occupational Health & Safety taught me that unsafe behavior is almost always a system design failure, not a human failure. Over six years in User Experience / Product Design taught me how to observe people inside those systems, map where they break down, and redesign them around how humans actually behave. Security+ and ongoing GRC study have given me the framework language to translate both into auditable controls.
 
 I sit at the intersection of **Design Thinking and Secure Design** — and I believe that's where the most durable security programs are built.
 
