@@ -39,7 +39,7 @@ A compound capability most practitioners don't have: GRC fluency *and* cloud sec
 | grc-carestream-soc2 *(coming soon)* | SOC 2 Type II · HIPAA | Healthcare SaaS | Clinician workflow pressure as security risk — controls designed around care priorities |
 | grc-trustpath-usable-security *(coming soon)* | SOC 2 · NIST CSF | B2B SaaS | Human risk · secure design · UX-informed controls |
 | grc-meridian-capstone *(coming soon)* | ISO 27001 · SOC 2 · PCI DSS v4.0 · NIST CSF · GDPR | Multi-framework | OHS + UX + GRC threads unified |
-| risk-assessment-methodology *(coming soon)* | NIST 800-30 · ISO 27005 | Cross-industry | OHS audit methodology as GRC framework |
+| [risk-assessment-methodology](https://github.com/DaraStaysCurious/risk-assessment-methodology) | NIST 800-30 · ISO 27005 | Cross-industry | OHS audit methodology as GRC framework |
 | secure-design-framework *(coming soon)* | NIST CSF · Design Thinking | B2B SaaS | Design Thinking + Secure Design intersection |
 
 ---
