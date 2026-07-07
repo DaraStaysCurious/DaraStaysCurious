@@ -81,4 +81,4 @@ A compound capability most practitioners don't have: GRC fluency *and* cloud sec
 
 ---
 
-*Based in San Miguel de Allende, Mexico. Open to fully remote GRC analyst roles.*
+*Based in both Atlanta, GA and San Miguel de Allende, Mexico. Open to fully remote GRC analyst roles.*
